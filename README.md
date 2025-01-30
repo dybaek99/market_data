@@ -14,7 +14,7 @@
 
 데이터 저장: MySQL
 
-데이터 시각화: matplotlib, seaborn
+데이터 시각화: matplotlib
 
 🎯 주요 기능
 
